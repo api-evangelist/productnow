@@ -1,8 +1,12 @@
 aid: productnow
 name: ProductNow
-description: 'ProductNow is a company surfaced as a portfolio company of sierra-ventures and added to
-  the API Evangelist network as a stub for enrichment. Sector: ai. This profile is a lead awaiting the
-  enrichment pipeline.'
+description: 'ProductNow turns data agents can''t reach into living docs — context that travels
+  everywhere. The platform connects to a company''s scattered data sources — code repositories, sales
+  systems, financial records, legal documents, and support tickets — and indexes them into searchable
+  documentation that stays current automatically, then surfaces that knowledge to AI agents and teams
+  through Slack, Claude, ChatGPT, and other enterprise tools via Model Context Protocol (MCP) support,
+  with version history, access controls, and knowledge graphs. ProductNow is SOC 2 Type II certified and
+  is backed by Sierra Ventures.'
 url: https://raw.githubusercontent.com/api-evangelist/productnow/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,12 +14,30 @@ x-backed-by:
 - sierra-ventures
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
+image: https://productnow.ai/Logo/PN_Logo_Long_bw.png
 tags:
 - Company
 - Ai
+- Agents
+- Model Context Protocol
+- Documentation
+- Knowledge Management
+- Developer Tools
+- Context
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +47,32 @@ maintainers:
 common:
 - type: Website
   url: https://productnow.ai/
+- type: Blog
+  url: https://productnow.ai/blogs
+- type: BlogRSS
+  url: https://productnow.ai/rss.xml
+- type: SignUp
+  url: https://app.productnow.ai/landing
+- type: Support
+  url: mailto:hello@productnow.ai
+- type: TrustCenter
+  url: https://app.vanta.com/productnow.ai/trust/44ksof903njus1ij3x2cev
+- type: Compliance
+  url: https://app.vanta.com/productnow.ai/trust/44ksof903njus1ij3x2cev
+- type: VulnerabilityDisclosure
+  url: security/productnow-vulnerability-disclosure.yml
+- type: Security
+  url: https://app.productnow.ai/.well-known/security.txt
+- type: SecurityTxt
+  url: well-known/productnow-security.txt
+- type: WellKnown
+  url: well-known/productnow-well-known.yml
+- type: DomainSecurity
+  url: security/productnow-domain-security.yml
+- type: LLMsTxt
+  url: llms/productnow-llms.txt
+x-enrichment:
+  date: '2026-07-20'
+  status: enriched
+  artifacts_added: 6
+  pass: local-v1

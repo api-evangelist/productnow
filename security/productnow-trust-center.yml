@@ -1,0 +1,17 @@
+generated: '2026-07-20'
+method: searched
+probe: true
+url: https://app.vanta.com/productnow.ai/trust/44ksof903njus1ij3x2cev
+platform: Vanta
+certifications:
+- SOC 2 Type II
+evidence:
+- source: https://productnow.ai/
+  keywords:
+  - soc 2 type ii
+  - trust center
+  note: Homepage states "SOC 2 Type II certified" and links to a Vanta-hosted trust center.
+- source: https://app.vanta.com/productnow.ai/trust/44ksof903njus1ij3x2cev
+  keywords:
+  - vanta
+  - trust center
