@@ -2,10 +2,17 @@
   "repo": "productnow",
   "feeds": [
     {
+      "source": "https://productnow.ai/rss.xml",
+      "feed_url": "https://productnow.ai/rss.xml",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
       "source": "https://productnow.ai/",
       "feed_url": "https://productnow.ai/rss.xml",
       "title": "",
-      "saved": 1,
+      "saved": 0,
       "method": "discovered"
     },
     {
@@ -16,6 +23,6 @@
       "method": "discovered"
     }
   ],
-  "post_count": 1,
-  "fetched": "2026-07-25T15:00:33Z"
+  "post_count": 12,
+  "fetched": "2026-08-01T15:49:00Z"
 }
