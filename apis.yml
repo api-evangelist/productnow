@@ -46,7 +46,7 @@ tags:
 - Agents
 - MCP
 - Documentation
-- Knowledge-Management
+- Knowledge Management
 - Developer Tools
 - Context
 tags_raw:
@@ -58,6 +58,7 @@ tags_raw:
 - Knowledge Management
 - Developer Tools
 - Context
+- Knowledge-Management
 apis: []
 maintainers:
 - FN: Kin Lane
