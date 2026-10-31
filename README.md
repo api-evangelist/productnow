@@ -64,6 +64,86 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-ProductNow is a company surfaced as a portfolio company of sierra-ventures and added to the API Evangelist network as a stub for enrichment. Sector: ai. This profile is a lead awaiting the enrichment pipeline.
+ProductNow turns data agents can't reach into living docs — context that travels everywhere. The platform connects to a company's scattered data sources — code repositories, sales systems, financial records, legal documents, and support tickets — and indexes them into searchable documentation that stays current automatically, then surfaces that knowledge to AI agents and teams through Slack, Claude, ChatGPT, and other enterprise tools via Model Context Protocol (MCP) support, with version history, access controls, and knowledge graphs. ProductNow is SOC 2 Type II certified and is backed by Sierra Ventures.
 
-Backed by: sierra-ventures — https://productnow.ai/
+**Areas:** Company · Artificial Intelligence · Agents · MCP · Documentation · Knowledge Management · Developer Tools · Context
+
+## ProductNow on APIs.io
+
+Everything profiled for ProductNow is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/productnow/](https://apis.io/providers/productnow/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Productnow Domain Security](https://apis.io/security/productnow/productnow-domain-security/)
+- [Productnow Trust Center](https://apis.io/security/productnow/productnow-trust-center/)
+- [Productnow Vulnerability Disclosure](https://apis.io/security/productnow/productnow-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://productnow.ai/)
+- [Sign up](https://app.productnow.ai/landing)
+- [Blog](https://productnow.ai/blogs)
+- [Security](https://app.productnow.ai/.well-known/security.txt)
+- [Compliance](https://app.vanta.com/productnow.ai/trust/44ksof903njus1ij3x2cev)
+- [Trust centre](https://app.vanta.com/productnow.ai/trust/44ksof903njus1ij3x2cev)
+
+## API Evangelist rating
+
+**Kin Score 9.7** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 13.2 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 10.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/productnow/](https://apis.io/providers/productnow/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for ProductNow: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/productnow/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
